@@ -14,6 +14,7 @@ public class FuXi {
         list.add(3,4);
         list.forEach( o -> System.out.println(o));
         System.out.println("branch01");
+        System.out.println("brance01改了");
 
 
 
