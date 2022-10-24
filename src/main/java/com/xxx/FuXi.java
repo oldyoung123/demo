@@ -13,8 +13,7 @@ public class FuXi {
         list.add(2,3);
         list.add(3,4);
         list.forEach( o -> System.out.println(o));
-        System.out.println("master改了");
-        System.out.println("brance01改了");
+        System.out.println("本地仓库push");
 
 
 
