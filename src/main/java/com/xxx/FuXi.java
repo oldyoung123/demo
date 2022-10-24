@@ -13,9 +13,8 @@ public class FuXi {
         list.add(2,3);
         list.add(3,4);
         list.forEach( o -> System.out.println(o));
-        System.out.println(123);
-        System.out.println(456);
-        System.out.println(789);
+        System.out.println("branch01");
+
 
 
     }
