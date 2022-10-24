@@ -13,7 +13,7 @@ public class FuXi {
         list.add(2,3);
         list.add(3,4);
         list.forEach( o -> System.out.println(o));
-        System.out.println("本地仓库push");
+        System.out.println("pull到本地库");
 
 
 
